@@ -4,7 +4,7 @@
   </v-main>
 
   <v-app>
-    <v-img src="fundo.jpg" class="background-image" cover>
+    <v-img src="/fundo.jpg" class="background-image" cover>
 
       <div class="d-flex justify-between elevation-24">
         <v-container class="bg-green-darken-4 elevation-24 ml-4" :class="smAndDown ? 'mt-3 pr-0 ml-12 mb-3' : ''">

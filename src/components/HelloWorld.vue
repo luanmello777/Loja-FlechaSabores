@@ -84,7 +84,7 @@
     </v-container>
   </div>
 
-  <v-container class="borda border-solid bg-green-darken-4">
+  <v-container class="borda border-solid bg-green-darken-4" :class="smAndDown ? 'pl-10 pr-10' : ''" >
     <div class="d-flex align-center justify-center mt-16">
       <v-card class="borda1 pl-5 pr-5 bg-white border-solid">
         <h1 class="font text-green-darken-4">MOLHOS PESTOS</h1>

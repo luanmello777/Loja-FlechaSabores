@@ -93,7 +93,7 @@
 
         <v-container class="d-flex justify-space-between mt-15">
           <v-card class="elevation-24 bg-green-darken-4" width="200" :class="smAndDown ? 'w-0' : ''">
-            <v-img src="azeitealecrim.jpg" height="200px" cover></v-img>
+            <v-img src="/azeitealecrim.jpg" height="200px" cover></v-img>
 
             <v-card-title>
               Alecrim
@@ -108,7 +108,7 @@
           </v-card>
 
           <v-card width="200" class="elevation-24 bg-green-darken-4" :class="smAndDown ? 'w-75 mr-1' : ''">
-            <v-img src="azeitegengibre.jpg" height="200px" cover></v-img>
+            <v-img src="/azeitegengibre.jpg" height="200px" cover></v-img>
 
             <v-card-title>
               Gengibre
@@ -123,7 +123,7 @@
           </v-card>
 
           <v-card width="200" class="elevation-24 bg-green-darken-4" :class="smAndDown ? 'w-75 ml-1' : ''">
-            <v-img src="azeitealhoealecrim.jpg" height="200px" cover></v-img>
+            <v-img src="/azeitealhoealecrim.jpg" height="200px" cover></v-img>
 
             <v-card-title>
               Alho/Alecrim
@@ -138,7 +138,7 @@
           </v-card>
 
           <v-card width="200" class="elevation-24 bg-green-darken-4" :class="smAndDown ? 'w-0' : ''">
-            <v-img src="azeitelimao.jpg" height="200px" cover></v-img>
+            <v-img src="/azeitelimao.jpg" height="200px" cover></v-img>
 
             <v-card-title>
               Limão Siciliano
@@ -154,7 +154,7 @@
 
         <v-container class="d-flex justify-space-between" :class="smAndDown ? '' : 'w-0 h-0'">
           <v-card width="200" class="elevation-24 bg-green-darken-4" :class="smAndDown ? 'w-75 mr-1' : 'w-0'">
-            <v-img src="azeitealecrim.jpg" height="200px" cover></v-img>
+            <v-img src="/azeitealecrim.jpg" height="200px" cover></v-img>
 
             <v-card-title>
               Alecrim
@@ -169,7 +169,7 @@
           </v-card>
 
           <v-card width="200" class="elevation-24 bg-green-darken-4" :class="smAndDown ? 'w-75 ml-1' : 'w-0'">
-            <v-img src="azeitelimao.jpg" height="200px" cover></v-img>
+            <v-img src="/azeitelimao.jpg" height="200px" cover></v-img>
 
             <v-card-title>
               Limão Sicilia
@@ -188,7 +188,7 @@
 
         <v-container class="d-flex justify-space-between">
           <v-card width="200" class="elevation-24 bg-green-darken-4" :class="smAndDown ? 'w-0' : ''">
-            <v-img src="azeitepimenta.jpg" height="200px" cover></v-img>
+            <v-img src="/azeitepimenta.jpg" height="200px" cover></v-img>
 
             <v-card-title>
               Pimenta
@@ -202,7 +202,7 @@
           </v-card>
 
           <v-card width="200" class="elevation-24 bg-green-darken-4" :class="smAndDown ? 'w-75 mr-1' : ''">
-            <v-img src="azeitecebola.jpg" height="200px" cover></v-img>
+            <v-img src="/azeitecebola.jpg" height="200px" cover></v-img>
 
             <v-card-title>
               Cebola
@@ -217,7 +217,7 @@
           </v-card>
 
           <v-card width="200" class="elevation-24 bg-green-darken-4" :class="smAndDown ? 'w-75 ml-1' : ''">
-            <v-img src="azeitehortela.png" height="200px" cover></v-img>
+            <v-img src="/azeitehortela.png" height="200px" cover></v-img>
 
             <v-card-title>
               Hortelã
@@ -232,7 +232,7 @@
           </v-card>
 
           <v-card width="200" class="elevation-24 bg-green-darken-4" :class="smAndDown ? 'w-0' : ''">
-            <v-img src="azeitelaranja.jpg" height="200px" cover></v-img>
+            <v-img src="/azeitelaranja.jpg" height="200px" cover></v-img>
 
             <v-card-title>
               Laranja
@@ -248,7 +248,7 @@
 
         <v-container class="d-flex justify-space-between" :class="smAndDown ? '' : 'w-0 h-0'">
           <v-card width="200" class="elevation-24 bg-green-darken-4" :class="smAndDown ? 'w-75 mr-1' : 'w-0'">
-            <v-img src="azeitepimenta.jpg" height="200px" cover></v-img>
+            <v-img src="/azeitepimenta.jpg" height="200px" cover></v-img>
 
             <v-card-title>
               Pimenta
@@ -263,7 +263,7 @@
           </v-card>
 
           <v-card width="200" class="elevation-24 bg-green-darken-4" :class="smAndDown ? 'w-75 ml-1' : 'w-0'">
-            <v-img src="azeitelaranja.jpg" height="200px" cover></v-img>
+            <v-img src="/azeitelaranja.jpg" height="200px" cover></v-img>
 
             <v-card-title>
               Laranja

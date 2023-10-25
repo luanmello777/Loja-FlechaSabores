@@ -94,7 +94,7 @@
 
     <v-container class="d-flex justify-space-between mt-15">
       <v-card class="elevation-24" width="200" :class="smAndDown ? 'w-0' : ''">
-        <v-img src="pestorucula.png" height="200px" cover></v-img>
+        <v-img src="/pestorucula.png" height="200px" cover></v-img>
 
         <v-card-title>
           Rúcula
@@ -108,7 +108,7 @@
       </v-card>
 
       <v-card width="200" class="elevation-24" :class="smAndDown ? 'w-75 mr-1' : ''">
-        <v-img src="pestomanjericao.jpg" height="200px" cover></v-img>
+        <v-img src="/pestomanjericao.jpg" height="200px" cover></v-img>
 
         <v-card-title>
           Manjericão
@@ -122,7 +122,7 @@
       </v-card>
 
       <v-card width="200" class="elevation-24" :class="smAndDown ? 'w-75 ml-1' : ''">
-        <v-img src="pestosalsa.jpg" height="200px" cover></v-img>
+        <v-img src="/pestosalsa.jpg" height="200px" cover></v-img>
 
         <v-card-title>
           Salsa
@@ -136,7 +136,7 @@
       </v-card>
 
       <v-card width="200" class="elevation-24" :class="smAndDown ? 'w-0' : ''">
-        <v-img src="pestoespinafre.png" height="200px" cover></v-img>
+        <v-img src="/pestoespinafre.png" height="200px" cover></v-img>
 
         <v-card-title>
           Espinafre
@@ -152,7 +152,7 @@
 
     <v-container class="d-flex justify-space-between" :class="smAndDown ? '' : 'w-0 h-0'">
       <v-card width="200" class="elevation-24" :class="smAndDown ? 'w-75 mr-1' : 'w-0'">
-        <v-img src="pestorucula.png" height="200px" cover></v-img>
+        <v-img src="/pestorucula.png" height="200px" cover></v-img>
 
         <v-card-title>
           Rúcula
@@ -166,7 +166,7 @@
       </v-card>
 
       <v-card width="200" class="elevation-24" :class="smAndDown ? 'w-75 ml-1' : 'w-0'">
-        <v-img src="pestoespinafre.png" height="200px" cover></v-img>
+        <v-img src="/pestoespinafre.png" height="200px" cover></v-img>
 
         <v-card-title>
           Espinafre
@@ -184,7 +184,7 @@
 
     <v-container class="d-flex justify-space-between">
       <v-card width="200" class="elevation-24" :class="smAndDown ? 'w-0' : ''">
-        <v-img src="pestotomate.png" height="200px" cover></v-img>
+        <v-img src="/pestotomate.png" height="200px" cover></v-img>
 
         <v-card-title>
           Tomate
@@ -198,7 +198,7 @@
       </v-card>
 
       <v-card width="200" class="elevation-24" :class="smAndDown ? 'w-75 mr-1' : ''">
-        <v-img src="pestomanjeroxo.png" height="200px" cover></v-img>
+        <v-img src="/pestomanjeroxo.png" height="200px" cover></v-img>
 
         <v-card-title>
           Manje. Roxo
@@ -212,7 +212,7 @@
       </v-card>
 
       <v-card width="200" class="elevation-24" :class="smAndDown ? 'w-75 ml-1' : ''">
-        <v-img src="pestohortela.png" height="200px" cover></v-img>
+        <v-img src="/pestohortela.png" height="200px" cover></v-img>
 
         <v-card-title>
           Hortelã
@@ -226,7 +226,7 @@
       </v-card>
 
       <v-card width="200" class="elevation-24" :class="smAndDown ? 'w-0' : ''">
-        <v-img src="pestocoentro.png" height="200px" cover></v-img>
+        <v-img src="/pestocoentro.png" height="200px" cover></v-img>
 
         <v-card-title>
           Coentro
@@ -242,7 +242,7 @@
 
     <v-container class="d-flex justify-space-between" :class="smAndDown ? '' : 'w-0 h-0'">
       <v-card width="200" class="elevation-24" :class="smAndDown ? 'w-75 mr-1' : 'w-0'">
-        <v-img src="pestotomate.png" height="200px" cover></v-img>
+        <v-img src="/pestotomate.png" height="200px" cover></v-img>
 
         <v-card-title>
           Tomate
@@ -256,7 +256,7 @@
       </v-card>
 
       <v-card width="200" class="elevation-24" :class="smAndDown ? 'w-75 ml-1' : 'w-0'">
-        <v-img src="pestocoentro.png" height="200px" cover></v-img>
+        <v-img src="/pestocoentro.png" height="200px" cover></v-img>
 
         <v-card-title>
           Coentro

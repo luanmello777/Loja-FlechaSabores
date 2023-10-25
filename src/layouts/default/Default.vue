@@ -1,6 +1,6 @@
 <template>
   <v-app>
-    <v-img src="fundo.jpg" class="background-image" cover>
+    <v-img src="/fundo.jpg" class="background-image" cover>
     
       <default-bar />
       <default-view /></v-img>

@@ -8,7 +8,7 @@
 
       <div class="d-flex justify-between elevation-24">
         <v-container class="bg-green-darken-4 elevation-24 ml-4" :class="smAndDown ? 'mt-3 mb-3 pl-2 pr-2' : ''">
-          <h1 class="font mr-16 mt-5" :class="smAndDown ? 'ml-2' : ''">ENCOMENDE AGORA<p></p>SEU AZEITE SABORIZADO</h1>
+          <h1 class="font mr-16 mt-5" :class="smAndDown ? 'ml-2' : ''">COMPRE AGORA<p></p>SEU AZEITE SABORIZADO</h1>
           <h3 class="mt-5 text-light-green-lighten-4" :class="smAndDown ? 'mt-6 ml-1' : ''">O azeite é um ingrediente
             essencial em cozinhas de todo o mundo, tão antigo quanto a própria humanidade. <p></p>Mas ainda existem muitas
             curiosidades sobre o azeite de oliva que nem todo mundo conhece.</h3>
@@ -104,10 +104,10 @@
             </v-card-subtitle>
 
             <v-btn class="bg-white-4 mt-4 mb-2 ml-2 elevation-24 text-green-darken-4"
-              :class="smAndDown ? 'w-75' : ''">ENCOMENDAR</v-btn>
+              :class="smAndDown ? 'w-75' : ''">COMPRAR</v-btn>
           </v-card>
 
-          <v-card width="200" class="elevation-24 bg-green-darken-4" :class="smAndDown ? 'w-75 mr-1' : ''">
+          <v-card width="200" class="elevation-24 bg-green-darken-4" :class="smAndDown ? 'w-75' : ''">
             <v-img src="/azeitegengibre.jpg" height="200px" cover></v-img>
 
             <v-card-title>
@@ -119,7 +119,7 @@
             </v-card-subtitle>
 
             <v-btn class="bg-white mt-4 mb-2 ml-2 text-green-darken-4"
-              :class="smAndDown ? 'pl-1 pr-1' : ''">ENCOMENDAR</v-btn>
+              :class="smAndDown ? 'w-75' : ''">COMPRAR</v-btn>
           </v-card>
 
           <v-card width="200" class="elevation-24 bg-green-darken-4" :class="smAndDown ? 'w-75 ml-1' : ''">
@@ -134,7 +134,7 @@
             </v-card-subtitle>
 
             <v-btn class="bg-white mt-4 mb-2 mr-2 ml-2 text-green-darken-4"
-              :class="smAndDown ? 'pl-1 pr-1' : ''">ENCOMENDAR</v-btn>
+              :class="smAndDown ? 'w-75' : ''">COMPRAR</v-btn>
           </v-card>
 
           <v-card width="200" class="elevation-24 bg-green-darken-4" :class="smAndDown ? 'w-0' : ''">
@@ -148,7 +148,7 @@
               <h2>R$ 24,90</h2>
             </v-card-subtitle>
 
-            <v-btn class="bg-white mt-4 mb-2 mr-2 ml-2 text-green-darken-4">ENCOMENDAR</v-btn>
+            <v-btn class="bg-white mt-4 mb-2 mr-2 ml-2 text-green-darken-4">COMPRAR</v-btn>
           </v-card>
         </v-container>
 
@@ -165,10 +165,10 @@
             </v-card-subtitle>
 
             <v-btn class="bg-white mt-4 mb-2 ml-2 text-green-darken-4"
-              :class="smAndDown ? 'pl-1 pr-1' : ''">ENCOMENDAR</v-btn>
+              :class="smAndDown ? 'w-75' : ''">COMPRAR</v-btn>
           </v-card>
 
-          <v-card width="200" class="elevation-24 bg-green-darken-4" :class="smAndDown ? 'w-75 ml-1' : 'w-0'">
+          <v-card width="200" class="elevation-24 bg-green-darken-4" :class="smAndDown ? 'w-75' : 'w-0'">
             <v-img src="/azeitelimao.jpg" height="200px" cover></v-img>
 
             <v-card-title>
@@ -180,7 +180,7 @@
             </v-card-subtitle>
 
             <v-btn class="bg-white mt-4 mb-2 mr-2 ml-2 text-green-darken-4"
-              :class="smAndDown ? 'pl-1 pr-1' : ''">ENCOMENDAR</v-btn>
+              :class="smAndDown ? 'w-75' : ''">COMPRAR</v-btn>
           </v-card>
 
         </v-container>
@@ -198,10 +198,10 @@
               <h2>R$ 24,90</h2>
             </v-card-subtitle>
 
-            <v-btn class="bg-white mt-4 mb-2 ml-2 text-green-darken-4">ENCOMENDAR</v-btn>
+            <v-btn class="bg-white mt-4 mb-2 ml-2 text-green-darken-4">COMPRAR</v-btn>
           </v-card>
 
-          <v-card width="200" class="elevation-24 bg-green-darken-4" :class="smAndDown ? 'w-75 mr-1' : ''">
+          <v-card width="200" class="elevation-24 bg-green-darken-4" :class="smAndDown ? 'w-75' : ''">
             <v-img src="/azeitecebola.jpg" height="200px" cover></v-img>
 
             <v-card-title>
@@ -213,7 +213,7 @@
             </v-card-subtitle>
 
             <v-btn class="bg-white mt-4 mb-2 ml-2 text-green-darken-4"
-              :class="smAndDown ? 'pl-1 pr-1' : ''">ENCOMENDAR</v-btn>
+              :class="smAndDown ? 'w-75' : ''">COMPRAR</v-btn>
           </v-card>
 
           <v-card width="200" class="elevation-24 bg-green-darken-4" :class="smAndDown ? 'w-75 ml-1' : ''">
@@ -228,7 +228,7 @@
             </v-card-subtitle>
 
             <v-btn class="bg-white mt-4 mb-2 mr-2 ml-2 text-green-darken-4"
-              :class="smAndDown ? 'pl-1 pr-1' : ''">ENCOMENDAR</v-btn>
+              :class="smAndDown ? 'w-75' : ''">COMPRAR</v-btn>
           </v-card>
 
           <v-card width="200" class="elevation-24 bg-green-darken-4" :class="smAndDown ? 'w-0' : ''">
@@ -242,12 +242,12 @@
               <h2>R$ 24,90</h2>
             </v-card-subtitle>
 
-            <v-btn class="bg-white mt-4 mb-2 mr-2 ml-2 text-green-darken-4">ENCOMENDAR</v-btn>
+            <v-btn class="bg-white mt-4 mb-2 mr-2 ml-2 text-green-darken-4">COMPRAR</v-btn>
           </v-card>
         </v-container>
 
         <v-container class="d-flex justify-space-between" :class="smAndDown ? '' : 'w-0 h-0'">
-          <v-card width="200" class="elevation-24 bg-green-darken-4" :class="smAndDown ? 'w-75 mr-1' : 'w-0'">
+          <v-card width="200" class="elevation-24 bg-green-darken-4" :class="smAndDown ? 'w-75' : 'w-0'">
             <v-img src="/azeitepimenta.jpg" height="200px" cover></v-img>
 
             <v-card-title>
@@ -259,7 +259,7 @@
             </v-card-subtitle>
 
             <v-btn class="bg-white mt-4 mb-2 ml-2 text-green-darken-4"
-              :class="smAndDown ? 'pl-1 pr-1' : ''">ENCOMENDAR</v-btn>
+              :class="smAndDown ? 'w-75' : ''">COMPRAR</v-btn>
           </v-card>
 
           <v-card width="200" class="elevation-24 bg-green-darken-4" :class="smAndDown ? 'w-75 ml-1' : 'w-0'">
@@ -274,7 +274,7 @@
             </v-card-subtitle>
 
             <v-btn class="bg-white mt-4 mb-2 mr-2 ml-2 text-green-darken-4"
-              :class="smAndDown ? 'pl-1 pr-1' : ''">ENCOMENDAR</v-btn>
+              :class="smAndDown ? 'w-75' : ''">COMPRAR</v-btn>
           </v-card>
         </v-container>
       </v-container>

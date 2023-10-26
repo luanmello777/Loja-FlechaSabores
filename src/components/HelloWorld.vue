@@ -5,7 +5,7 @@
     </v-container>
 
     <v-container class="bg-green-darken-4 mr-4 elevation-24" :class="smAndDown ? 'mb-3 pl-2 pr-2' : ''">
-      <h1 class="font mr-16 mt-5" :class="smAndDown ? 'ml-2' : ''">ENCOMENDE AGORA<p></p>SEU MOLHO PESTO</h1>
+      <h1 class="font mr-16 mt-5" :class="smAndDown ? 'ml-2' : ''">COMPRE AGORA<p></p>SEU MOLHO PESTO</h1>
       <h3 class="mt-5 text-light-green-lighten-4" :class="smAndDown ? 'mt-6 ml-1' : ''">Pesto é um molho italiano,
         originário
         de Gênova, na Ligúria, norte
@@ -104,7 +104,7 @@
           <h2>R$ 24,90</h2>
         </v-card-subtitle>
 
-        <v-btn class="bg-green-darken-4 mt-4 mb-2 ml-2 elevation-24" :class="smAndDown ? 'w-75' : ''">ENCOMENDAR</v-btn>
+        <v-btn class="bg-green-darken-4 mt-4 mb-2 ml-2 elevation-24" :class="smAndDown ? 'w-75' : ''">COMPRAR</v-btn>
       </v-card>
 
       <v-card width="200" class="elevation-24" :class="smAndDown ? 'w-75 mr-1' : ''">
@@ -118,10 +118,10 @@
           <h2>R$ 24,90</h2>
         </v-card-subtitle>
 
-        <v-btn class="bg-green-darken-4 mt-4 mb-2 ml-2" :class="smAndDown ? 'pl-1 pr-1' : ''">ENCOMENDAR</v-btn>
+        <v-btn class="bg-green-darken-4 mt-4 mb-2 ml-2" :class="smAndDown ? 'w-75' : ''">COMPRAR</v-btn>
       </v-card>
 
-      <v-card width="200" class="elevation-24" :class="smAndDown ? 'w-75 ml-1' : ''">
+      <v-card width="200" class="elevation-24" :class="smAndDown ? 'w-75' : ''">
         <v-img src="/pestosalsa.jpg" height="200px" cover></v-img>
 
         <v-card-title>
@@ -132,7 +132,7 @@
           <h2>R$ 24,90</h2>
         </v-card-subtitle>
 
-        <v-btn class="bg-green-darken-4 mt-4 mb-2 mr-2 ml-2" :class="smAndDown ? 'pl-1 pr-1' : ''">ENCOMENDAR</v-btn>
+        <v-btn class="bg-green-darken-4 mt-4 mb-2 mr-2 ml-2" :class="smAndDown ? 'w-75' : ''">COMPRAR</v-btn>
       </v-card>
 
       <v-card width="200" class="elevation-24" :class="smAndDown ? 'w-0' : ''">
@@ -146,12 +146,12 @@
           <h2>R$ 24,90</h2>
         </v-card-subtitle>
 
-        <v-btn class="bg-green-darken-4 mt-4 mb-2 mr-2 ml-2">ENCOMENDAR</v-btn>
+        <v-btn class="bg-green-darken-4 mt-4 mb-2 mr-2 ml-2">COMPRAR</v-btn>
       </v-card>
     </v-container>
 
     <v-container class="d-flex justify-space-between" :class="smAndDown ? '' : 'w-0 h-0'">
-      <v-card width="200" class="elevation-24" :class="smAndDown ? 'w-75 mr-1' : 'w-0'">
+      <v-card width="200" class="elevation-24" :class="smAndDown ? 'w-75' : 'w-0'">
         <v-img src="/pestorucula.png" height="200px" cover></v-img>
 
         <v-card-title>
@@ -162,7 +162,7 @@
           <h2>R$ 24,90</h2>
         </v-card-subtitle>
 
-        <v-btn class="bg-green-darken-4 mt-4 mb-2 ml-2" :class="smAndDown ? 'pl-1 pr-1' : ''">ENCOMENDAR</v-btn>
+        <v-btn class="bg-green-darken-4 mt-4 mb-2 ml-2" :class="smAndDown ? 'w-75' : ''">COMPRAR</v-btn>
       </v-card>
 
       <v-card width="200" class="elevation-24" :class="smAndDown ? 'w-75 ml-1' : 'w-0'">
@@ -176,7 +176,7 @@
           <h2>R$ 24,90</h2>
         </v-card-subtitle>
 
-        <v-btn class="bg-green-darken-4 mt-4 mb-2 mr-2 ml-2" :class="smAndDown ? 'pl-1 pr-1' : ''">ENCOMENDAR</v-btn>
+        <v-btn class="bg-green-darken-4 mt-4 mb-2 mr-2 ml-2" :class="smAndDown ? 'w-75' : ''">COMPRAR</v-btn>
       </v-card>
 
     </v-container>
@@ -194,10 +194,10 @@
           <h2>R$ 24,90</h2>
         </v-card-subtitle>
 
-        <v-btn class="bg-green-darken-4 mt-4 mb-2 ml-2">ENCOMENDAR</v-btn>
+        <v-btn class="bg-green-darken-4 mt-4 mb-2 ml-2">COMPRAR</v-btn>
       </v-card>
 
-      <v-card width="200" class="elevation-24" :class="smAndDown ? 'w-75 mr-1' : ''">
+      <v-card width="200" class="elevation-24" :class="smAndDown ? 'w-75' : ''">
         <v-img src="/pestomanjeroxo.png" height="200px" cover></v-img>
 
         <v-card-title>
@@ -208,7 +208,7 @@
           <h2>R$ 24,90</h2>
         </v-card-subtitle>
 
-        <v-btn class="bg-green-darken-4 mt-4 mb-2 ml-2" :class="smAndDown ? 'pl-1 pr-1' : ''">ENCOMENDAR</v-btn>
+        <v-btn class="bg-green-darken-4 mt-4 mb-2 ml-2" :class="smAndDown ? 'w-75' : ''">COMPRAR</v-btn>
       </v-card>
 
       <v-card width="200" class="elevation-24" :class="smAndDown ? 'w-75 ml-1' : ''">
@@ -222,7 +222,7 @@
           <h2>R$ 24,90</h2>
         </v-card-subtitle>
 
-        <v-btn class="bg-green-darken-4 mt-4 mb-2 mr-2 ml-2" :class="smAndDown ? 'pl-1 pr-1' : ''">ENCOMENDAR</v-btn>
+        <v-btn class="bg-green-darken-4 mt-4 mb-2 mr-2 ml-2" :class="smAndDown ? 'w-75' : ''">COMPRAR</v-btn>
       </v-card>
 
       <v-card width="200" class="elevation-24" :class="smAndDown ? 'w-0' : ''">
@@ -236,12 +236,12 @@
           <h2>R$ 24,90</h2>
         </v-card-subtitle>
 
-        <v-btn class="bg-green-darken-4 mt-4 mb-2 mr-2 ml-2">ENCOMENDAR</v-btn>
+        <v-btn class="bg-green-darken-4 mt-4 mb-2 mr-2 ml-2">COMPRAR</v-btn>
       </v-card>
     </v-container>
 
     <v-container class="d-flex justify-space-between" :class="smAndDown ? '' : 'w-0 h-0'">
-      <v-card width="200" class="elevation-24" :class="smAndDown ? 'w-75 mr-1' : 'w-0'">
+      <v-card width="200" class="elevation-24" :class="smAndDown ? 'w-75' : 'w-0'">
         <v-img src="/pestotomate.png" height="200px" cover></v-img>
 
         <v-card-title>
@@ -252,7 +252,7 @@
           <h2>R$ 24,90</h2>
         </v-card-subtitle>
 
-        <v-btn class="bg-green-darken-4 mt-4 mb-2 ml-2" :class="smAndDown ? 'pl-1 pr-1' : ''">ENCOMENDAR</v-btn>
+        <v-btn class="bg-green-darken-4 mt-4 mb-2 ml-2" :class="smAndDown ? 'w-75' : ''">COMPRAR</v-btn>
       </v-card>
 
       <v-card width="200" class="elevation-24" :class="smAndDown ? 'w-75 ml-1' : 'w-0'">
@@ -266,7 +266,7 @@
           <h2>R$ 24,90</h2>
         </v-card-subtitle>
 
-        <v-btn class="bg-green-darken-4 mt-4 mb-2 mr-2 ml-2" :class="smAndDown ? 'pl-1 pr-1' : ''">ENCOMENDAR</v-btn>
+        <v-btn class="bg-green-darken-4 mt-4 mb-2 mr-2 ml-2" :class="smAndDown ? 'w-75' : ''">COMPRAR</v-btn>
       </v-card>
     </v-container>
   </v-container>

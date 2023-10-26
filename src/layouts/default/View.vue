@@ -7,9 +7,9 @@
     <v-img src="/fundo.jpg" class="background-image" cover>
 
       <div class="d-flex justify-between elevation-24">
-        <v-container class="bg-green-darken-4 elevation-24 ml-4" :class="smAndDown ? 'mt-3 pr-0 ml-12 mb-3' : ''">
-          <h1 class="font mr-16 mt-5">ENCOMENDE AGORA<p></p>SEU AZEITE SABORIZADO</h1>
-          <h3 class="mt-5 text-light-green-lighten-4" :class="smAndDown ? 'mt-6 ml-2' : ''">O azeite é um ingrediente
+        <v-container class="bg-green-darken-4 elevation-24 ml-4" :class="smAndDown ? 'mt-3 mb-3 pl-2 pr-2' : ''">
+          <h1 class="font mr-16 mt-5" :class="smAndDown ? 'ml-2' : ''">ENCOMENDE AGORA<p></p>SEU AZEITE SABORIZADO</h1>
+          <h3 class="mt-5 text-light-green-lighten-4" :class="smAndDown ? 'mt-6 ml-1' : ''">O azeite é um ingrediente
             essencial em cozinhas de todo o mundo, tão antigo quanto a própria humanidade. <p></p>Mas ainda existem muitas
             curiosidades sobre o azeite de oliva que nem todo mundo conhece.</h3>
 
@@ -74,7 +74,7 @@
           </v-dialog>
         </v-container>
 
-        <v-container class="bg-green-darken-4 elevation-24 mr-4" :class="smAndDown ? 'h-1 w-0 pl-0 pr-0 ml-10' : 'w-50'">
+        <v-container class="bg-green-darken-4 elevation-24 mr-4" :class="smAndDown ? 'h-1 w-0 pl-0 pr-0' : 'w-50'">
           <v-img src="/fundo1.png" cover height="400" width="800"></v-img>
         </v-container>
       </div>

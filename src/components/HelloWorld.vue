@@ -1,12 +1,12 @@
 <template>
   <div class="mt-3 d-flex justify-between">
-    <v-container class="ml-4 bg-green-darken-4 elevation-24" :class="smAndDown ? 'h-1 w-0 pl-0 pr-0 ml-10' : 'w-50'">
+    <v-container class="ml-4 bg-green-darken-4 elevation-24" :class="smAndDown ? 'h-1 w-0 pl-0 pr-0' : 'w-50'">
       <v-img src="/intro.png" cover height="400" width="800"></v-img>
     </v-container>
 
-    <v-container class="bg-green-darken-4 mr-4 elevation-24" :class="smAndDown ? 'mr-10 mb-3' : ''">
-      <h1 class="font mr-16 mt-5">ENCOMENDE AGORA<p></p>SEU MOLHO PESTO</h1>
-      <h3 class="mt-5 text-light-green-lighten-4" :class="smAndDown ? 'mt-6 ml-2' : ''">Pesto é um molho italiano,
+    <v-container class="bg-green-darken-4 mr-4 elevation-24" :class="smAndDown ? 'mb-3 pl-2 pr-2' : ''">
+      <h1 class="font mr-16 mt-5" :class="smAndDown ? 'ml-2' : ''">ENCOMENDE AGORA<p></p>SEU MOLHO PESTO</h1>
+      <h3 class="mt-5 text-light-green-lighten-4" :class="smAndDown ? 'mt-6 ml-1' : ''">Pesto é um molho italiano,
         originário
         de Gênova, na Ligúria, norte
         da Itália.<p></p> É composto tradicionalmente de folhas de manjericão <span class="text-white">(opcional)</span>

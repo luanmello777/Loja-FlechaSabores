@@ -89,7 +89,7 @@
       </v-container>
 
 
-      <v-container class="border-solid cont1 bg-white">
+      <v-container class="border-solid cont2 bg-white">
 
         <v-container class="d-flex justify-space-between mt-15">
           <v-card class="elevation-24 bg-green-darken-4" width="200" :class="smAndDown ? 'w-0' : ''">
@@ -331,6 +331,12 @@
   border-top-color: white;
 }
 
+.cont2 {
+  border-color: #1B5E20;
+  border-width: 10px;
+  border-top-width: 0px;
+  border-top-color: white;
+}
 .borda1 {
   border-color: white;
   border-width: 2px;

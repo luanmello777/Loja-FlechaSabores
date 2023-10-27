@@ -1,7 +1,7 @@
 <template>
   <div class="mt-3 d-flex justify-between">
     <v-container class="ml-4 bg-green-darken-4 elevation-24" :class="smAndDown ? 'h-1 w-0 pl-0 pr-0' : 'w-50'">
-      <v-img src="/intro.png" cover height="400" width="800"></v-img>
+      <v-parallax src="/intro.png" height="400" width="800"></v-parallax>
     </v-container>
 
     <v-container class="bg-green-darken-4 mr-4 elevation-24" :class="smAndDown ? 'mb-3 pl-2 pr-2' : ''">

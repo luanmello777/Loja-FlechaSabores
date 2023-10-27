@@ -75,7 +75,7 @@
         </v-container>
 
         <v-container class="bg-green-darken-4 elevation-24 mr-4" :class="smAndDown ? 'h-1 w-0 pl-0 pr-0' : 'w-50'">
-          <v-img src="/fundo1.png" cover height="400" width="800"></v-img>
+          <v-parallax src="/fundo1.png"  height="400" width="800"></v-parallax>
         </v-container>
       </div>
 
